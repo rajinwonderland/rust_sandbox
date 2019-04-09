@@ -1,0 +1,7 @@
+[package]
+name = "rust-first-app"
+version = "0.1.0"
+authors = ["rajinwonderland <raj@novvuminc.com>"]
+edition = "2018"
+
+[dependencies]
